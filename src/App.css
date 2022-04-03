@@ -1,0 +1,14 @@
+/* Navbar */
+.navbar-nav a {
+  font-size: 18px;
+}
+
+.card {
+  background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+}
+
+.card-img {
+  width: 100%;
+  height: auto;
+  margin-left: 260px;
+}
